@@ -1,6 +1,3 @@
 # pbo-MuhammadZakiSatriana-10112050
-# pbo-MuhammadZakiSatriana-10112050
-# pbo-MuhammadZakiSatriana-10112050
-# pbo-MuhammadZakiSatriana-10112050
-# pbo-MuhammadZakiSatriana-10112050
+
 
