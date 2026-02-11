@@ -1,7 +1,7 @@
 <?php
 
 class kalkulatorSuhu {
-    public $celsius;
+    public $celsius=25;
     
     public function keFahrenheit() {
         return ($this->celsius * 9/5) + 32;
@@ -14,7 +14,6 @@ class kalkulatorSuhu {
 
 }
 $kalkulator1 = new kalkulatorSuhu();
-$kalkulator1->celsius=25;
 
 echo "<pre>";
 echo "====Kalkulator Suhu====\n";
